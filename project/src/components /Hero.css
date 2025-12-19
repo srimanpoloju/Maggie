@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
 
 * {
   padding: 0;
@@ -49,7 +50,6 @@ width: 700px;
 .bowl-img:hover {
   transform: scale(1.05); 
 }
-@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
 
 * {
   padding: 0;
